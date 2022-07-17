@@ -59,7 +59,7 @@ const CONTRACT_SYMBOL = 'BHC';
 const METADATA_UPDATABLE = false; // set to false if you don't want to allow metadata updates after minting
 const OWNER_ADDRESS = '0xd2889821B555FADAf72DD74AD41B5Ebf5906Fd82';
 const TREASURY_ADDRESS = '0xd2889821B555FADAf72DD74AD41B5Ebf5906Fd82';
-const MAX_SUPPLY = 10; // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
+const MAX_SUPPLY = 20; // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
 const MINT_PRICE = 0.01; // Minting price per NFT. Rinkeby = ETH, Ethereum = ETH, Polygon = MATIC. CANNOT BE UPDATED!
 const TOKENS_PER_MINT = 10; // maximum number of NFTs a user can mint in a single transaction. CANNOT BE UPDATED!
 
